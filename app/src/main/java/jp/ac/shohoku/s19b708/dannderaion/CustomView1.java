@@ -1,6 +1,3 @@
-/**
- * 19b708 外山ひかる
- */
 package jp.ac.shohoku.s19b708.dannderaion;
 
 import android.content.Context;
