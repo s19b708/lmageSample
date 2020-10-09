@@ -3,7 +3,6 @@
  */
 package jp.ac.shohoku.s19b708.dannderaion;
 
-import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.res.Resources;
 import android.graphics.Bitmap;
