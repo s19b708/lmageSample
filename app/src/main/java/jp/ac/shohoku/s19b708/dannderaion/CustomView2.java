@@ -39,5 +39,7 @@ public class CustomView2 extends View {
         p.setColor(Color.DKGRAY);
         canvas.drawRect(new Rect(5,5,w-10,h-10),p);
         Resources rs = this.getContext().getResources();
-        Bitmap bmp = BitmapFactory.decodeResource(rs, R.drawable.hiyori_eden);
+        Bitmap bmp = BitmapFactory.decodeResource(rs, R.drawable.hiyori_eva);
         canvas.drawBitmap(bmp, 0, 0, p);
+    }
+}
