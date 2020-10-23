@@ -1,6 +1,3 @@
-/**
- * 19b708 外山ひかる
- */
 package jp.ac.shohoku.s19b708.dannderaion;
 
 import android.content.Context;
@@ -42,7 +39,7 @@ public class CustomView1 extends View {
         p.setColor(Color.DKGRAY);
         canvas.drawRect(new Rect(5,5,w-10,h-10),p);
         Resources rs = this.getContext().getResources();
-        Bitmap bmp = BitmapFactory.decodeResource(rs, R.drawable.hiyorieva);
+        Bitmap bmp = BitmapFactory.decodeResource(rs, R.drawable.hiyori_eva);
         canvas.drawBitmap(bmp, 0, 0, p);
     }
 }
