@@ -12,7 +12,7 @@ import android.view.MotionEvent;
 import android.view.View;
 
 /**
- * Created by utsumi on 2015/10/07.
+ * Created by s19b708 on 2020/10/23.
  */
 public class TapView extends View {
     private Paint mPaint = new Paint(); //描画用のスタイル設定など
